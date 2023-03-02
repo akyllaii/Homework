@@ -68,3 +68,6 @@
 // for (let key of arr) {
 //     console.log(`Массив сожержит в себе элемент ${key}`)
 // }
+
+
+
