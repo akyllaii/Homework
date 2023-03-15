@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -28,6 +29,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
@@ -87,6 +89,13 @@
       <workItem from="1677771104203" duration="610000" />
       <workItem from="1677771753541" duration="1146000" />
       <workItem from="1677772929448" duration="640000" />
+      <workItem from="1677773668845" duration="274000" />
+      <workItem from="1677931569979" duration="3000" />
+      <workItem from="1678888913636" duration="1462000" />
+      <workItem from="1678890401306" duration="204000" />
+      <workItem from="1678890625441" duration="47000" />
+      <workItem from="1678890684556" duration="130000" />
+      <workItem from="1678890832159" duration="413000" />
     </task>
     <servers />
   </component>
