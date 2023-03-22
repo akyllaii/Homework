@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9607841f-58a5-4830-8942-a4eed06e519d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12dz/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/12dz/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12dz/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/12dz/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/7dz/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/7dz/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -15,6 +17,7 @@
       <list>
         <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -32,6 +35,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -95,7 +99,16 @@
       <workItem from="1678890401306" duration="204000" />
       <workItem from="1678890625441" duration="47000" />
       <workItem from="1678890684556" duration="130000" />
-      <workItem from="1678890832159" duration="413000" />
+      <workItem from="1678890832159" duration="688000" />
+      <workItem from="1678892562813" duration="2000" />
+      <workItem from="1679057837294" duration="119000" />
+      <workItem from="1679057972767" duration="3253000" />
+      <workItem from="1679157671300" duration="5000" />
+      <workItem from="1679487850932" duration="687000" />
+      <workItem from="1679488566639" duration="97000" />
+      <workItem from="1679488691972" duration="41000" />
+      <workItem from="1679488757037" duration="453000" />
+      <workItem from="1679489274795" duration="273000" />
     </task>
     <servers />
   </component>
